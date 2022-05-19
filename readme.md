@@ -71,7 +71,7 @@ https://localhost:8060/swagger-ui.html
 <!-- ![Schema](https://github.com/MZapka/matt-microservices/raw/main/images/dbSchema.png) -->
 <!-- <img src="images/dbSchema.png", width="800" /> -->
 
-![Schema](images/dbSchema.jpg)
+![Schema](https://raw.githubusercontent.com/MZapka/matt-microservices/main/images/dbSchema.jpg)
 ### Microservice Architecture
 ![Architecture](https://raw.githubusercontent.com/media/MZapka/matt-microservices/main/images/architecture.png)
 
