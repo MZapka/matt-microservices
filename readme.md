@@ -68,6 +68,8 @@ https://localhost:8060/swagger-ui.html
 
 
 ### MySQL Database
-![Schema](images/dbSchema.jpg)
+![Schema](https://github.com/[MZapka]/[matt-microservices]/blob/[main]/images/dbSchema.jpg?raw=true)
+
+<!-- ![Schema](images/dbSchema.jpg) -->
 ### Microservice Architecture
 ![Architecture](images/architecture.png)
