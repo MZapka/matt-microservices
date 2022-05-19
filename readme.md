@@ -68,7 +68,9 @@ https://localhost:8060/swagger-ui.html
 
 
 ### MySQL Database
-![Schema](https://raw.githubusercontent.com/MZapka/matt-microservices/main/images/dbSchema.jpg)
+![Schema](https://user-images.githubusercontent.com/50150794/169381979-b3a56d3d-1685-4292-9b25-7c527087f239.png)
+<!-- ![Schema](https://raw.githubusercontent.com/MZapka/matt-microservices/main/images/dbSchema.jpg) -->
 
 ### Microservice Architecture
-![Architecture](https://raw.githubusercontent.com/media/MZapka/matt-microservices/main/images/architecture.png)
+![Architecture](https://user-images.githubusercontent.com/50150794/169381833-01ccb9a1-e09a-439d-8a1e-de599a104571.png)
+<!-- ![Architecture](https://raw.githubusercontent.com/media/MZapka/matt-microservices/main/images/architecture.png) -->
